@@ -2,6 +2,8 @@ package com.bridgelabz.basiccore;
 
 import java.util.Scanner;
 
+import com.bridgelabz.utility.Utility;
+
 public class FlipCoinPercentage {
 
 	public static void main(String[] args) {
